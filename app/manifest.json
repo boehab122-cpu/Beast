@@ -1,0 +1,26 @@
+{
+  "name": "Beast — Study Smarter, Never Forget",
+  "short_name": "Beast",
+  "description": "Study a lecture once, and Beast schedules every review for you across the next four months.",
+  "start_url": ".",
+  "scope": ".",
+  "id": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#eef1ec",
+  "theme_color": "#1b6e68",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
